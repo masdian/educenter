@@ -34,4 +34,6 @@ fields:
   default: post
 pages:
 - exampleSite/content/english/blog/bootstrap-method.md
+- exampleSite/content/english/blog/bootstrap-method.md
+- exampleSite/content/english/blog/pendaftaran-mahasiswa-baru.md
 - exampleSite/content/english/blog/pendaftaran-mahasiswa-baru.md

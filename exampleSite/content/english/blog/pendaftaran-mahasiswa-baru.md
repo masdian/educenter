@@ -13,3 +13,7 @@ type = "post"
 ### Jalur SNMPTN
 
 Penerimaan jalur SNMPTN yang sedang berlangsung merupakan segala daya dan upaya
+
+### Jalur SBMPTN
+
+Seleksi Bersama Masuk Perguruan Tinggi Negeri
