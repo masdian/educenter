@@ -13,7 +13,6 @@ tags:
 - Advice
 - English
 type: post
-draft: true
 
 ---
 ### Persyaratan
