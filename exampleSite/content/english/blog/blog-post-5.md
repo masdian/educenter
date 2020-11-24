@@ -1,5 +1,5 @@
 ---
-title: Elegant Light Box Paper Cut Dioramas
+title: Penyesuaian UKT Semester Genap 2020/2021
 date: 2019-07-06T15:27:17.000+06:00
 bg_image: images/backgrounds/page-title.jpg
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -15,9 +15,13 @@ tags:
 type: post
 
 ---
-### The standard Lorem Ipsum passage, used since the 1500s
+### Persyaratan
 
-Penggunaan yang kita gunakan akan jadi segala daya dan upaya yang lain dari pada yang lain akan main dengan segala daya dan upaya
+Mahasiswa yang berhak mengajukan penyesuaian UKT Semester Genap 2020/2021 adalah mahasiswa yang memenuhi persyaratan sebagai berikut:
+
+1. Mahasiswa semester 4 dan 6 di semester genap tahun akademik 2020/2021
+2. Belum pernah mendapatkan penyesuaian permanen
+3. Persayaratan terperinci mengikuti [Peraturan Rektor No. 7 tahun 2020](www.untirta.ac.id)
 
 #### 1914 translation by H. Rackham
 
