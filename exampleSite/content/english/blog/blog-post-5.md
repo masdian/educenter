@@ -1,6 +1,6 @@
 ---
 title: Penyesuaian UKT Semester Genap 2020/2021
-date: 2019-07-06T15:27:17.000+06:00
+date: 2020-11-24T16:27:17+07:00
 bg_image: images/backgrounds/page-title.jpg
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -19,9 +19,9 @@ type: post
 
 Mahasiswa yang berhak mengajukan penyesuaian UKT Semester Genap 2020/2021 adalah mahasiswa yang memenuhi persyaratan sebagai berikut:
 
-1. Mahasiswa semester 4 dan 6 di semester genap tahun akademik 2020/2021
-2. Belum pernah mendapatkan penyesuaian permanen
-3. Persayaratan terperinci mengikuti [Peraturan Rektor No. 7 tahun 2020](www.untirta.ac.id)
+* Mahasiswa semester 4 dan 6 di semester genap tahun akademik 2020/2021
+* Belum pernah mendapatkan penyesuaian permanen
+* Persayaratan terperinci mengikuti [Peraturan Rektor No. 7 tahun 2020](www.untirta.ac.id)
 
 #### 1914 translation by H. Rackham
 
