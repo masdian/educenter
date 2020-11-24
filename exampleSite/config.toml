@@ -1,6 +1,6 @@
 baseURL = "http://mas-dian.netlify.app"
 disableLanguages = []
-disqusShortname = "educenter"
+disqusShortname = "masdian"
 paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
