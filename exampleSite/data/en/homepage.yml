@@ -39,8 +39,8 @@ banner_feature:
   feature_item:
   - name: Scholorship News
     icon: ti-book
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: Mohon maaf, sampai saat ini belum ada beasiswa yang ditawarkan. Silakan
+      secara berkala kunjungi kami untuk informasi yang lebih uptodate
   - name: Our Notice Board
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -95,13 +95,13 @@ funfacts:
   enable: true
   funfact_item:
   - name: TEACHERS
-    count: "60"
+    count: "7"
   - name: COURSES
     count: "50"
   - name: STUDENTS
     count: "1000"
   - name: SATISFIED CLIENT
-    count: "1400"
+    count: "1450"
 blog:
   enable: true
   title: Latest News
