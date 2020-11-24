@@ -4,8 +4,8 @@ bg_image: images/backgrounds/page-title.jpg
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
-image: "/images/masdian_kecil.jpg"
-course: Photography
+image: "/images/masdian.jpg"
+course: Data Science
 bio: Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur
   ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio,
   culpa aspernatur. Error placeat iusto officia voluptas quae.
@@ -23,7 +23,7 @@ contact:
   link: tel:+628111072357
 - name: Clark Malik
   icon: ti-facebook
-  link: "#"
+  link: www.facebook.com
 - name: Clark Malik
   icon: ti-twitter-alt
   link: "#"
