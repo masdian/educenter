@@ -2,9 +2,7 @@
 title: Penyesuaian UKT Semester Genap 2020/2021
 date: 2020-11-24T16:27:17.000+07:00
 bg_image: images/backgrounds/page-title.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud.
+description: ''
 image: images/blog/post-3.jpg
 author: John Doe
 categories:
